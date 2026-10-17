@@ -6,7 +6,7 @@ pkg install python -y
 pip install colorama requests
 
 echo -e "\e[1;32m[+] Downloading RED WEB PATH Tool...\e[0m"
-curl -sL https://raw.githubusercontent.com/sabbirooox/RED-WEB-PATH-/main/webpath.py -o webpath.py
+curlcurl -sL https://raw.githubusercontent.com/sabbirooox/RED-WEB-PATH-/main/webpath.py -o webpath.py
 
 chmod +x webpath.py
 
